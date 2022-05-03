@@ -7,7 +7,7 @@ struct Marco {
     let name : String = 'Marco'
     let surname : String = 'Incerti'
     let education : [String] = ['UNIMORE', 'UNIMI', 'Computer Science']
-    let hobbies : [String] = ['Cooking', 'Programming', 'Anime']
+    let hobbies : [String] = ['Cooking', 'Programming', 'Animes']
     let interests : [String] = ['Finance', 'Change the World', 'Innovation', 'Helping others with Technology']
 }
 ```
