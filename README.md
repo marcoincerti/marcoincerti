@@ -1,4 +1,4 @@
-<p align="center" style="font-weight:bold"> 👋 <b>Hi there!</b> <p>
+<p align="center" style="font-weight:bold"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <b>Hi there!</b> <p>
 
 ---
 
@@ -14,6 +14,9 @@ struct Marco {
 <br />
   
 💻 I'm Marco Incerti, a `Software Engineer Student` at Università di Milano. I am currently studying `Computer Science` and working in the research laboratory of my university `EveryWare Lab` that deals with research in the field of augmented reality to help people with disabilities. I worked as a volunteer organization staff on the last edition of the `SWERC`, a wonderful experience.
+  
+<summary><b> :computer: Languages</b></summary>
+<p align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoincerti&layout=compact&langs_count=8" />
 
 Moreover...
 * 🎅🧝🧛 With my friends we meet to brainstorm possible business ideas and have fun
