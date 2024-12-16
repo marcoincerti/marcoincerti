@@ -1,3 +1,3 @@
-# Hi, I'm Marco
+# Hi, I'm Marco 😎
 
 I am a software engineer based in Milan.
